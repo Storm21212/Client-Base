@@ -155,13 +155,8 @@
   <ItemGroup>
     <ClCompile Include="Client.cpp" />
     <ClCompile Include="Client\ClientManager.cpp" />
-    <ClCompile Include="Client\Modules\AirJump.cpp" />
+    <ClCompile Include="Client\Modules\Freecam.cpp" />
     <ClCompile Include="Client\Modules\AutoSprint.cpp" />
-    <ClCompile Include="Client\Modules\Hitbox.cpp" />
-    <ClCompile Include="Client\Modules\Instabreak.cpp" />
-    <ClCompile Include="Client\Modules\Jesus.cpp" />
-    <ClCompile Include="Client\Modules\Jetpack.cpp" />
-    <ClCompile Include="Client\Modules\Killaura.cpp" />
     <ClCompile Include="Client\Modules\TabGUI.cpp" />
     <ClCompile Include="Client\Modules\TestModule.cpp" />
     <ClCompile Include="Client\Modules\Uninject.cpp" />
@@ -174,13 +169,8 @@
     <ClInclude Include="Client\Hooks\GameMode.h" />
     <ClInclude Include="Client\Hooks\KeyItem.h" />
     <ClInclude Include="Client\Hooks\RenderContext.h" />
-    <ClInclude Include="Client\Modules\AirJump.h" />
+    <ClInclude Include="Client\Modules\Freecam.h" />
     <ClInclude Include="Client\Modules\AutoSprint.h" />
-    <ClInclude Include="Client\Modules\Hitbox.h" />
-    <ClInclude Include="Client\Modules\Instabreak.h" />
-    <ClInclude Include="Client\Modules\Jesus.h" />
-    <ClInclude Include="Client\Modules\Jetpack.h" />
-    <ClInclude Include="Client\Modules\Killaura.h" />
     <ClInclude Include="Client\Modules\TabGUI.h" />
     <ClInclude Include="Client\Modules\TestModule.h" />
     <ClInclude Include="Client\Modules\Uninject.h" />
